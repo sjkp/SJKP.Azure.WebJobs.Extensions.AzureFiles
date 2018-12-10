@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SJKP.AzureFunctions.Test": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sjkpaci2;AccountKey=xd6HoTVWfLsVFzbjtra21Y4DVdx9xx8XVzZiLSYD/oWqnQlwglJ1Ry4W1hhoOcNl+IuPUAdIxM2CT9maxdDu5w==;EndpointSuffix=core.windows.net"
+      }
+    }
+  }
+}
